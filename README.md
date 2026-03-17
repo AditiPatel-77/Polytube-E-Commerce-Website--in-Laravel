@@ -109,19 +109,6 @@ php artisan serve
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your project here)
-
-Example:
-
-* Homepage
-* Product Listing Page
-* Product Details Page
-* Admin Dashboard
-
----
-
 ## 👩‍💻 Author
 
 **Aditi Patel**
